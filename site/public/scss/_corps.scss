@@ -1,0 +1,44 @@
+#corps {
+  min-height: 500px;
+  background-color: #FDFDFD;
+  opacity: 0.85;
+  /* background:url("../img/header/fondCorps.jpg") no-repeat center ;
+  background-size: cover;*/
+  border: double #296540 30px;
+  padding: 2%;
+  position: relative;
+  z-index: 0;
+
+}
+
+#methode {
+  list-style-type: circle;
+  font: italic bold 18px comic sans ms;
+}
+
+#infCourante {
+  list-style-type: none;
+  font: italic bold 18px comic sans ms;
+}
+
+#hCourant {
+  list-style-type: none;
+  text-justify: auto;
+  font: italic bold 18px comic sans ms;
+
+}
+
+#presentation {
+  text-align: justify;
+  text-indent: 10px;
+  font:bold 40px 'Tangerine', cursive;
+
+
+}
+
+
+
+
+#yout {
+  text-align: center;
+}

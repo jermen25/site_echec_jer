@@ -1,0 +1,39 @@
+
+hr.titr {
+  border-color: #296540;
+  height: 30px;
+  border-style: solid;
+  border-width: 7px 0 0 0;
+  border-radius: 20px;
+
+}
+
+hr.titr:before {
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 0 7px 0;
+  border-radius: 20px;
+}
+
+/*css home page : */
+#titre3Ho {
+  text-align: center;
+  font-family : Tangerine , serif   ;
+  text-shadow:  4px 4px 4px #aaa ;
+  font-size: 68px;
+  font-weight: bold;
+
+}
+
+#titre4Ho {
+  text-align: center;
+  font: italic bold 25px comic sans ms;
+}
+
+#titre5Ho {
+  text-align: center;
+}

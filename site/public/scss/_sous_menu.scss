@@ -1,0 +1,36 @@
+/*css sous-menu*/
+
+#s_menu {
+  list-style-type: none;
+  text-align: center;
+  background-color: #296540;
+  height: 30px;
+  font-family: 'Rye', cursive;
+  font-size: 17px;
+  margin-left: 0px;
+  margin-right: 0px;
+  position: relative;
+  z-index: 2;
+}
+
+#s_menu li {
+  width: 100%;
+  font-style: oblique;
+  font-weight: bold;
+
+}
+
+#s_menu li a {
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+#s_menu li a:hover {
+  text-decoration: none;
+  color: yellow;
+  display: block;
+  position: relative;
+  z-index: 5;
+
+}
