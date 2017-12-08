@@ -21,10 +21,8 @@
         <li>[Nom du site] se réserve le droit de modifier unilatéralement et à tout moment le
             contenu des présentes conditions générales d'utilisation.
         </li>
-        <p class="aron">pp
         <hr>
         <hr class="second">
-        </p>
         <h2 id="titre4Ho"> ARTICLE 2 : Mentions légales</h2>
         <p> L'édition du site [Nom du site] est assurée par la Société [Nom de la société] [SAS / SA / SARL, etc.] au
             capital de [montant en euros] € dont le siège social est situé au [adresse du siège social].
